@@ -1,6 +1,6 @@
 ## Build authenticity
 
-All release builds are signed with my own keys. To verify that a build is mine, compare the SHA-256 fingerprints below with the certificates in the build.
+All my Android release builds are signed with my own keys. To verify that a build is mine, compare the SHA-256 fingerprints below with the certificates in the build.
 
 | Key        | Purpose             | SHA-256 fingerprint |
 |------------|---------------------|---------------------|
